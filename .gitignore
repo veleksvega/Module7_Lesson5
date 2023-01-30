@@ -1,0 +1,11 @@
+*#ignore all logs  
+
+*.logs 
+
+#ignore all xml
+
+TEST*.xml 
+
+#ignore all jar
+
+*.jar
